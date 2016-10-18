@@ -133,6 +133,5 @@ Make sure you remember these rules!
 
 ### See Also...
 
-* [The Java Tutorials - Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
-* [Jenkov.com - Variables](http://tutorials.jenkov.com/java/variables.html)
-* [Tutorials Point - Variables](https://www.tutorialspoint.com/java/java_variable_types.htm)
+* [Accepting Input from a User](http://www.homeandlearn.co.uk/java/user_input.html)
+* [Java Made Easy - Java Scanner](http://www.java-made-easy.com/java-scanner.html)
