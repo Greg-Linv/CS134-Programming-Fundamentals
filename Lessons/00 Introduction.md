@@ -2,7 +2,73 @@
 
 ---
 
-# Introduction
+# Using BlueJ
+
+## Creating a simple Java project
+
+In BlueJ, go to **File > New Project...**.
+
+You will need to create a new folder for your project, and then click **Create**.
+
+![BlueJ new project](images/00_bluej_00.png)
+
+## Creating your program's Class file
+
+Each program that you write will need a Class associated with it.
+To create a new class, in BlueJ click on **New Class...**
+
+![New class button](images/00_bluej_01.png)
+
+Give the class a name, then hit **Ok**.
+
+![New class button](images/00_bluej_02.png)
+
+Right-click on the new class block, and select **Open Editor**.
+
+![Editor](images/00_bluej_03.png)
+
+It will have a bunch of pre-filled-in code that you don't need. Erase
+all of it so that you only have your class declaration:
+
+![Empty editor](images/00_bluej_empty.png)
+
+## Creating the entry-point function
+
+In Java programs, the program will always begin at a **main()** function.
+
+Add this function declaration to your class:
+
+	public static void main(String[] args)
+	{	
+	}
+	
+Your core program will go in the main function. Your project should
+look like this:
+
+![Empty editor](images/00_bluej_main.png)
+
+## Running the program
+
+Once you have some code in your main function, click on **Compile**
+from BlueJ. Once the program class doesn't have lines through it anymore,
+it is ready.
+
+Right-click on the class object and select your main() function.
+
+![Run program](images/00_bluej_run.png)
+
+Use the default parameters and hit **Ok**:
+
+![Run program 2](images/00_bluej_run2.png)
+
+A terminal window will pop up with your program's output (if any):
+
+![Run program 2](images/bluej_terminal.png)
+
+
+---
+
+# Using Eclipse
 
 ## Creating simple Java project
 
