@@ -103,6 +103,13 @@ and then store their result in the age variable after we use **scanner.nextInt()
 Finally, we create a double, prompt the user for input, and then use **scanner.nextDouble()** and store
 the result in the gpa variable.
 
+## Closing the scanner when you're done
+
+Once you're done with the scanner (probably at the end of the program),
+you should make sure to close it:
+
+	scanner.close();
+
 
 ---
 
